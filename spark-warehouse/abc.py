@@ -1,1 +1,2 @@
-print("he")
+def name(a) :
+    {print("he"+a)}
